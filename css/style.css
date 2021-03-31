@@ -1,0 +1,11 @@
+body{
+  background-color: #e4f9f5;
+}
+
+img:hover{
+  visibility: hidden;
+}
+
+h1{
+  font-family: cursive;
+}
